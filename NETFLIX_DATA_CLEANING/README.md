@@ -18,19 +18,28 @@ In this project, the following steps were performed on the Netflix dataset:
 
 # Handling Null Values: Null values in the dataset were identified and appropriate actions were taken to handle them effectively.
 1.Removing Duplicates: Duplicate entries in the dataset were identified and removed to ensure data integrity.
+
 2.Populating Missing Rows: Missing rows, if any, were populated using relevant information from the dataset.
+
 3.Discarding Irrelevant Columns: Columns that were not relevant for the analysis or visualization were removed from the dataset.
+
 4.Splitting Columns: Columns containing multiple values were split into separate columns to enable better analysis and visualization.
+
 5.Please refer to the code comments and the provided SQL script for detailed information on the data cleaning steps.
 
 # Visualization
-The cleaned dataset was imported into Tableau for visualization purposes. A Tableau dashboard was created to showcase the insights and trends in the Netflix dataset. You can access the Tableau dashboard here.
+The cleaned dataset was imported into Tableau for visualization purposes. 
+A Tableau dashboard was created to showcase the insights and trends in the Netflix dataset. You can access the Tableau dashboard here.
 
 # Usage
 To replicate the data cleaning and visualization process:
 
 1.Make sure you have a compatible database management system (DBMS) installed, such as PostgreSQL.
+
 2.Download the Netflix dataset from the provided link and import it into your DBMS.
+
 3.Copy the SQL code from the NetflixDatasets.sql file and execute it in your DBMS to perform the data cleaning steps.
+
 4.Access the cleaned dataset and import it into Tableau for visualization.
+
 5.Customize the Tableau dashboard as per your requirements.
