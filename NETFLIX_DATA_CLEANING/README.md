@@ -2,7 +2,7 @@
 Welcome to the Netflix dataset for data cleaning and visualization project. This project focuses on a cleaned version of the original Netflix dataset. The dataset includes movies, TV shows, and original content added to Netflix from 2008 to 2021, spanning from the oldest content in 1925 to the latest in 2021. The main objective of this project is to showcase data cleaning and visualization skills using PostgreSQL and Tableau, respectively.
 
 # Dataset Details
-The dataset used in this project is a cleaned version of the original Netflix dataset. The cleaned dataset can be accessed here. It includes the following columns:
+The dataset used in this project is a cleaned version of the original Netflix dataset. It includes the following columns:
 
 # Title: The title of the movie, TV show, or original content.
 Release Year: The year when the content was released.
@@ -37,7 +37,7 @@ In this project, the following steps were performed on the Netflix dataset:
 
 # Visualization
 The cleaned dataset was imported into Tableau for visualization purposes. 
-A Tableau dashboard was created to showcase the insights and trends in the Netflix dataset. You can access the Tableau dashboard here.
+A Tableau dashboard was created to showcase the insights and trends in the Netflix dataset.
 
 # Usage
 To replicate the data cleaning and visualization process:
