@@ -6,14 +6,22 @@ The dataset used in this project is a cleaned version of the original Netflix da
 
 # Title: The title of the movie, TV show, or original content.
 Release Year: The year when the content was released.
+
 Type: Indicates whether it is a movie or TV show.
+
 Director: The director(s) of the content.
+
 Cast: The cast members of the content.
+
 Country: The country where the content was produced.
+
 Duration: The duration of the content.
+
 Listed in: The genres or categories the content belongs to.
+
 Description: A brief description of the content.
-Project Steps
+
+# Project Steps
 In this project, the following steps were performed on the Netflix dataset:
 
 # Handling Null Values: Null values in the dataset were identified and appropriate actions were taken to handle them effectively.
